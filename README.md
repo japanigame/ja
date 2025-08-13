@@ -5,7 +5,7 @@ PS5 Firmwares: `1.XX` `5.XX`
 
 ## Steps:
 
-- In the console browser go to: https://japanig.github.io/ja
+- In the console browser go to: https://japga.github.io/ja
 - Select the firmware of your console.
 - Immediately all content will be installed in the offline cache, once finished exit the browser and turn off the Internet.
 - Then go back to Access Browser and Enjoy.
